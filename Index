@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All About Me</title>
+</head>
+<body>
+    <h1>All About Patrick Gibson</h1>
+    <img src="Me and an Elephant.jpg" height="400" width="267">
+    <p>Greetings, my name is <strong>Patrick James Gibson</strong>, and I'm from city of <em>Poway, California</em>.</p>
+    <p>I was born on <em>June 10th, 2009</em>, and I am 15 as of right now. I moved about 3 years ago</p>
+    <p>to Fishers, Indiana, Where I live currently.</p>
+    <h2>Top 3 Hobbies</h2>
+    <table border="5">
+        <tr>
+            <th scope = "col">Hobby 1</th>
+            <th scope = "col">Hobby 2</th>
+            <th scope = "col">Hobby 3</th>
+        </tr>
+        <tr>
+            <th scope = "col">Board Games</th>
+            <th scope = "col">Jump Rope</th>
+            <th scope = "col">Reading</th>
+        </tr>
+        <tr>
+            <th scope = "col">Pretty much every day,<br>
+                I try to find time to play a board<br>
+                game together with my family.</th>
+            <th scope = "col">After a project in middle school, I<br>
+            have learned to enjoy jumping rope (especially since<br>
+            I can pull off a couple of simple tricks now!).</th>
+            <th scope = "col">I'm a big fan of reading really any type of fictional<br>
+            work, and recently I've been getting into reading comics.</th>
+        </tr>
+    </table>
+    <br>
+    <img src="https://logos-download.com/wp-content/uploads/2018/03/Superman_logo_pink.png" height="200" width="250">
+    <h2>Favorite Movies</h2>
+    <ol>
+        <li>Bedtime Stories</li>
+        <li>Shazam!</li>
+        <li>Spider-Man: No Way Home</li>
+    </ol>
+    <h2>Favorite Songs</h2>
+    <ol>
+        <li>I Got You (I Feel Good), James Brown</li>
+        <li>Son of Man, Phil Collins</li>
+        <li>Stitches, Shawn Mendes</li>
+    </ol>
+    <h2>Some Youtube Videos</h2>
+    <a href="https://www.youtube.com/watch?v=_lv36mVYpYw" target = "_blank">
+        Dark Knight Trailer
+    </a>
+    <br>
+    <a href="https://www.youtube.com/watch?v=IwfUnkBfdZ4&pp=ygUaYmF0bWFuIHZzIHN1cGVybWFuIHRyYWlsZXI%3D" target = "_blank">
+        Batman V Superman Trailer
+    </a>
+    <br>
+    <a href="https://www.youtube.com/watch?v=U-wZa6RZgQA&pp=ygUXaSBmZWVsIGdvb2QgamFtZXMgYnJvd24%3D" target = "_blank">
+        I Got You (I Feel Good) Song
+    </a>
+    <br>
+    <a href="https://www.youtube.com/watch?v=cixCzJQhCx0&pp=ygUXc29uIG9mIG1hbiBwaGlsIGNvbGxpbnM%3D" target = "_blank">
+        Son of Man Song
+    </a>
+    <br>
+    <a href="https://www.youtube.com/watch?v=EByFZdw4wEA&pp=ygUVc3RpdGNoZXMgc2hhd24gbWVuZGVz" target = "_blank">
+        Stitches Song
+    </a>
+</body>
+</html>
